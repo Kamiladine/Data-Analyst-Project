@@ -5,3 +5,4 @@ This repository contains various data analysis projects covering different datas
 
 ## **📂 Projects Included**
 - [IMDb EDA and Visualization](https://github.com/Kamiladine/Data-Analyst-Project/tree/main/IMDb%20Analysis)
+- [Health Care Data Analysis](https://github.com/Kamiladine/Data-Analyst-Project/tree/main/Health_Care_Analysis)
