@@ -7,6 +7,7 @@ This repository contains various data analysis projects covering different datas
 ### **Python**
 - [IMDb EDA and Visualization](https://github.com/Kamiladine/Data-Analyst-Project/tree/main/IMDb%20Analysis)
 - [Health Care Data Analysis](https://github.com/Kamiladine/Data-Analyst-Project/tree/main/Health_Care_Analysis)
+- [Complaint Analysis](https://github.com/Kamiladine/Data-Analyst-Project/tree/main/Complaint_Analysis)
 
 ### **HR Analyst Dashboard**
 This Employee Analytics Dashboard provides key insights into workforce demographics, job satisfaction, performance ratings, and promotion eligibility. It is designed to help HR professionals and business leaders make data-driven decisions regarding employee engagement, retention, and career progression.
